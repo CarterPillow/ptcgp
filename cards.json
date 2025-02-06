@@ -1,0 +1,40 @@
+[
+    {
+        "dexid": "a1-001",
+        "name": "Bulbasaur",
+        "health": 70,
+        "ptype": "grass",
+        "stage": 0,
+        "weakness": "fire",
+        "ablities": [
+            1
+        ],
+        "attacks": [
+            1
+        ],
+        "rarity": "One Diamond",
+        "retreat": 1,
+        "packs": [
+            1
+        ]
+    },
+    {
+        "dexid": "a1-002",
+        "name": "Bulbasaur2",
+        "health": 70,
+        "ptype": "grass",
+        "stage": 0,
+        "weakness": "fire",
+        "ablities": [
+            1
+        ],
+        "attacks": [
+            1
+        ],
+        "rarity": "One Diamond",
+        "retreat": 1,
+        "packs": [
+            1
+        ]
+    }
+]
